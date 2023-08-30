@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Navigation Drawer</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Home fragment</string>
+    <string name="hello_profile_fragment">Hello Profile fragment</string>
 </resources>
